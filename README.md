@@ -1,5 +1,5 @@
 # Python-Practice
-Introductory Python Scripts to develop skill
+Introductory Python Scripts to develop skill.
 
 Exercises taken from:
 https://www.practicepython.org/
